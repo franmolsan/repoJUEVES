@@ -1,6 +1,6 @@
 class Java {
 public void metodo (){
-    int a = "java";
+//    int a = "java";
 }
     
 }
